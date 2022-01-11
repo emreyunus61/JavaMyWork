@@ -2,10 +2,10 @@ public class CustomerManager {
 
     private BaseLogger logger;
 
-    public CustomerManager(FileLogger logger){
+    public CustomerManager(BaseLogger logger){
 
 
-        this.logger= logger;
+        this.logger=logger;
 
     }
 
