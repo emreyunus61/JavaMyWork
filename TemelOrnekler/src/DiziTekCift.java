@@ -34,7 +34,9 @@ public class DiziTekCift {
     }
 
 
-
+//   DiziTekCift diziTekCift= new DiziTekCift();
+//   diziTekCift.diziTekSayilarınSayisi();
+//   diziTekCift.diziCiftSayilarınSayisi();
 
 
 
